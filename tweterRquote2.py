@@ -4,13 +4,9 @@ import requests
 import random
 import pyautogui
 import time
-import clipboard  # Import the clipboard library
+import clipboard  
+# Import all the  library
 
-# Function to scrape a random quote from the website
-# Function to scrape a random quote from the website with character count less than 270
-# Import statements and other code before this...
-
-# Function to scrape a random quote from the Goodreads website
 # Function to scrape a random quote from the website with character count less than 270
 def random_goodreads_quote():
     while True:
@@ -72,6 +68,6 @@ while True:
 
     # Sleep for 5 seconds before sending the next message
     time.sleep(5)
-
-    for i in range(2):
+    #for i in range(3):#Remove # for the comments sending
+    for i in range(2):#Add # for the comment sending
         pyautogui.hotkey('tab')
