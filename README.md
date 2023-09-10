@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/twitter-quote-bot.git
+   https://github.com/manoj698/Twittautomater.git
    ```
 
 2. Install the required Python libraries:
