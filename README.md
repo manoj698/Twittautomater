@@ -2,9 +2,9 @@
 Twitter automatic draft/tweet  sender, For twitter trending related operations
 
 
-# Twitter Quote Bot
+# Twitter automatic posting Bot
 
-This is a Python script for posting random quotes from Goodreads to Twitter. It uses web scraping to fetch quotes and the PyAutoGUI library to automate the posting process.
+This is a Python script for posting random quotes from Goodreads website to Twitter. It uses web scraping to fetch quotes and the PyAutoGUI library to automate the posting process.
 
 ## Prerequisites
 
