@@ -1,6 +1,7 @@
 # Twittautomater
 Twitter automatic draft/tweet  sender, For twitter trending related operations
-IF ANY DOUT CONTACT ME ON INSTAGRAM :(instagram.com/manojnaik.__)
+
+# IF ANY DOUT CONTACT ME ON INSTAGRAM :(manojnaik.__)
 
 <a href="https://www.instagram.com/manojnaik.__/" target="_blank">Follow me on Instagram</a>
 
