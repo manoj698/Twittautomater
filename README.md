@@ -10,7 +10,7 @@ This is a Python script for posting random quotes from Goodreads to Twitter. It 
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.x installed
+- Python 3.++ installed
 - Required Python libraries installed (`bs4`, `requests`, `pyautogui`, `time`, `clipboard`)
 - Twitter account with access tokens (for posting tweets)
 - Goodreads account (for fetching quotes)
@@ -29,13 +29,17 @@ Before you begin, ensure you have met the following requirements:
    pip install bs4 requests pyautogui clipboard
    ```
 
-3. Create a Twitter Developer App and obtain access tokens. Replace the placeholders in your Python script with your Twitter API credentials.
+3. Setup and open twitter website and take the cursor on the What is Happning and click on it at first.
 
-4. Run the script:
+4. Then go to terminal
+
+5. Run the script:
 
    ```bash
    python tweterRquote2.py
    ```
+
+6.go to browser and wait ,it will do the work
 
 ## Usage
 
