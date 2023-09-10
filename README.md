@@ -16,8 +16,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Python 3.++ installed
 - Required Python libraries installed (`bs4`, `requests`, `pyautogui`, `time`, `clipboard`)
-- Twitter account with access tokens (for posting tweets)
-- Goodreads account (for fetching quotes)
+- Twitter account already logined in ur browser
 
 ## Getting Started
 
