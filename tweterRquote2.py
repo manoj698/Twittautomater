@@ -38,7 +38,7 @@ def random_goodreads_quote():
 
 # Rest of the code remains the same...
 def post_quote(count):
-    message = f"{random_goodreads_quote()}\n -lenevos{count}\n HUM TOH DEEWANE MV SOON"  # Include the correct hashtag
+    message = f"{random_goodreads_quote()}\n-@lenevos307 {count}\n HUM TOH DEEWANE MV SOON"  # Include the correct hashtag
 
     # Copy the message to the clipboard
     clipboard.copy(message)
